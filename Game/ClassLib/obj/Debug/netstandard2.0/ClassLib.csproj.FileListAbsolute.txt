@@ -1,0 +1,10 @@
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\bin\Debug\netstandard2.0\ClassLib.deps.json
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\bin\Debug\netstandard2.0\ClassLib.dll
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\bin\Debug\netstandard2.0\ClassLib.pdb
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.AssemblyReference.cache
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\obj\Debug\netstandard2.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfo.cs
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\obj\Debug\netstandard2.0\ClassLib.dll
+C:\Users\domin\Documents\C#GameProject\Game\ClassLib\obj\Debug\netstandard2.0\ClassLib.pdb

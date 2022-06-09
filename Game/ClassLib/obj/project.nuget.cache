@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBc03H71fH+R9JVYTN/MaAunx70q/+iDlbxTPRsK0u4wmR2XAzv0EPrHHleT6/kDTUl2CV/63+crZgL/UcAJWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\domin\\Documents\\C#GameProject\\Game\\ClassLib\\ClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
